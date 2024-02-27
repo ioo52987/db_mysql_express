@@ -2,19 +2,20 @@
 
 
 # dependencies
-front_end/node_modules
-front_end/.pnp
-front_end/.pnp.js
-back_end/node_modules
+client/node_modules
+client/.pnp
+client/.pnp.js
+server/node_modules
+server/index.js
 
 # production
-front_end/build
+client/build
 
 # misc
-front_end/.DS_Store
-front_end/.env.local
-front_end/.env.development.local
-front_end/.env.test.local
-front_end/.env.production.local
+client/.DS_Store
+client/.env.local
+client/.env.development.local
+client/.env.test.local
+client/.env.production.local
 
-front_end/npm-debug.log*
+client/npm-debug.log*
